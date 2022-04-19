@@ -40,31 +40,12 @@
 
 ## Question 5
 
-### <ins>Note: All subparts of question 5 in the question pdf have been submitted as separate scripts</ins>
-
-### Question 5a
 - Execution commands:
     ```bash
-    chmod +x q5a.sh
-    ./q5a.sh <string>
+    chmod +x q5.sh
+    ./q5.sh <string>
     ```
-    - For example: The script can be run as `./q5a.sh abcDef`
-
-### Question 5b
-- Execution commands:
-    ```bash
-    chmod +x q5b.sh
-    ./q5b.sh <string>
-    ```
-    - For example: The script can be run as `./q5b.sh abcDef`
-
-### Question 5c
-- Execution commands:
-    ```bash
-    chmod +x q5c.sh
-    ./q5c.sh <string>
-    ```
-    - For example: The script can be run as `./q5c.sh abcDef`
+    - For example: The script can be run as `./q5.sh abcDef`
 
 ## Click [here](https://github.com/GnanaPrakashSG2004/ISS-Assignment-1.git) to access the  Github repo where the zip files are present.
 
