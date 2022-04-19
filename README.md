@@ -29,7 +29,7 @@
     - For example: The script can be run as `./q3.sh temp.txt` where temp.txt can be any file. <ins>Note: If temp.txt is in another directory, relative / absolute path of file must be provided.</ins>
 
 - Assumption: Numbers are counted. "number" and "number," are treated separately. "Abc" and "abc" are treated separately.
-- Assumption: File name is not temp.txt or temp2.txt (case-sensitive)
+- Assumption: File name is not ```temp.txt``` or ```temp2.txt``` (case-sensitive)
 
 ## Question 4
 - Execution commands:
