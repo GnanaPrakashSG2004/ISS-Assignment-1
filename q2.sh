@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo  > speech.txt
 while read -r line
 do
   if [[ "$line" == "$NL" ]]
